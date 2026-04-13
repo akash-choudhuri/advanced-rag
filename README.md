@@ -383,10 +383,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support & Contact
 
-- 📧 **Email**: [your-email@company.com](mailto:your-email@company.com)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/RAG/discussions)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/RAG/issues)
-- 📖 **Documentation**: [docs.yoursite.com](https://docs.yoursite.com)
+- 📧 **Email**: [cakash18@gmail.com](mailto:cakash18@gmail.com)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/akash-choudhuri/RAG/discussions)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/akash-choudhuri/RAG/issues)
 
 ---
 
@@ -394,6 +393,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ If this project helps you, please consider giving it a star! ⭐**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/RAG.svg?style=social&label=Star&maxAge=2592000)](https://github.com/yourusername/RAG/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/akash-choudhuri/RAG.svg?style=social&label=Star&maxAge=2592000)](https://github.com/akash-choudhuri/RAG/stargazers)
 
 </div>
